@@ -1,0 +1,9 @@
+<Motd>
+  <MessageDefinition DisplayFrom="1673136000000" DisplayUntil="1675123200000" Priority="1" IsEnabled="true">
+    <Message Language="en">Welcome to the GHTV Reloaded: Mod Tools V1.3 Beta!!! Look we now got MOTD and new features</Message>
+    <Message Language="fr"></Message>
+    <Message Language="es"></Message>
+    <Message Language="it"></Message>
+    <Message Language="de"></Message>
+  </MessageDefinition>
+</Motd>
