@@ -293,6 +293,9 @@
     <Translation key="GEM_CREATOR_BOX_TOGGLE">
         <Language id="en" value="Gem Box preview" />
     </Translation>
+    <Translation key="GEM_CREATOR_SEL_BOX">
+        <Language id="en" value="Select your open gem texture" />
+    </Translation>
     <Translation key="GEM_CREATOR_LEFT_HND">
         <Language id="en" value="Left Handed" />
     </Translation>
@@ -355,6 +358,12 @@
     </Translation>
     <Translation key="STR_IMPORTING">
         <Language id="en" value="Importing" />
+    </Translation>
+    <Translation key="GEM_IMPORTER_PACKOUTDATED_DES">
+        <Language id="en" value="Pack was made on an earlier version of the mod tools&#xA;Some texture and features will be missing when applying it" />
+    </Translation>
+    <Translation key="GEM_IMPORTER_PACKOUTDATED">
+        <Language id="en" value="Outdated Gem Pack" />
     </Translation>
     <Translation key="GEM_IMPORTER_IMPORTING_DES">
         <Language id="en" value="Please wait while we imported the Official GHTV Reloaded Gem Packs to your resource folder" />
