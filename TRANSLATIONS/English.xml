@@ -14,6 +14,9 @@
      <Translation key="STR_DOWNLOAD_LITE_TITLE">
         <Language id="en" value="Download Guitar Hero Live: TV Edition" />
     </Translation>
+     <Translation key="STR_INSTALLING_LITE">
+        <Language id="en" value="Please wait while we install Guitar Hero Live: TV Edition" />
+    </Translation>
      <Translation key="STR_DOWNLOAD_LITE_TITLE_DES">
         <Language id="en" value="Would you like to download Guitar Hero Live: TV Edition&#xA;&#xA; Guitar Hero Live but only contains GHTV" />
     </Translation>
