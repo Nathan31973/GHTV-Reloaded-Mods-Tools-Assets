@@ -587,6 +587,9 @@
     <Translation key="CONSOLE_XBO">
         <Language id="en" value="Xbox One" />
     </Translation>
+    <Translation key="CONSOLE_PS4">
+        <Language id="en" value="PS4" />
+    </Translation>
     <Translation key="CONSOLE_PS3_WIIU">
         <Language id="en" value="PS3 / Wii U" />
     </Translation>
