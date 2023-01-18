@@ -8,6 +8,15 @@
     <Translation key="STR_DOWNLOADED">
         <Language id="en" value="Downloaded:" />
     </Translation>
+    <Translation key="STR_DOWNLOAD_LITE">
+        <Language id="en" value="Please wait while we download the Guitar Hero Live: TV Edition" />
+    </Translation>
+     <Translation key="STR_DOWNLOAD_LITE_TITLE">
+        <Language id="en" value="Download Guitar Hero Live: TV Edition" />
+    </Translation>
+     <Translation key="STR_DOWNLOAD_LITE_TITLE_DES">
+        <Language id="en" value="Would you like to download Guitar Hero Live: TV Edition&#xA;&#xA; Guitar Hero Live but only contains GHTV" />
+    </Translation>
     <Translation key="STR_DOWNLOAD_GHLR_UPDATE">
         <Language id="en" value="Please wait while we download the Guitar Hero Live Update" />
     </Translation>
