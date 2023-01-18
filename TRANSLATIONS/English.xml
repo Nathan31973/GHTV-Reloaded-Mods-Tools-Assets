@@ -287,6 +287,12 @@
     <Translation key="GEM_CREATOR_RIGHT_HND">
         <Language id="en" value="Right Handed" />
     </Translation>
+    <Translation key="GEM_CREATOR_BOX">
+        <Language id="en" value="Gem Box" />
+    </Translation>
+    <Translation key="GEM_CREATOR_BOX_TOGGLE">
+        <Language id="en" value="Gem Box preview" />
+    </Translation>
     <Translation key="GEM_CREATOR_LEFT_HND">
         <Language id="en" value="Left Handed" />
     </Translation>
