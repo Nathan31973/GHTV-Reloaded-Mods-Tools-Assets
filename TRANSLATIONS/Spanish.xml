@@ -593,6 +593,9 @@
     <Translation key="CONSOLE_PS3_WIIU">
         <Language id="es" value="PS3 / Wii U" />
     </Translation>
+    <Translation key="STR_GUITAR_DONGLE">
+        <Language id="es" value="DONGLE" />
+    </Translation>
     <Translation key="SETUP_STR_STAGE4_3_XBOX360">
         <Language id="es" value="CONFIGURACIÓN: ETAPA 4&#xA;&#xA;Revisa el video a continuación sobre cómo configurar tu dongle" />
     </Translation>
@@ -687,37 +690,36 @@
         <Language id="es" value="Debes volver a ejecutar para que la configuración se procese de nuevo..." />
     </Translation>
     <Translation key="SETT_TOG_AUTO_UPDATE">
-        <Language id="en" value="Game Auto Updates" />
+        <Language id="es" value="Actualizaciones automáticas del juego" />
     </Translation>
     <Translation key="NET_CHECK_FOR_GAME_UPDATE">
-        <Language id="en" value="Grabing latest GHTV Reloaded update" />
+        <Language id="es" value="Obteniendo la última actualización de GHTV Reloaded" />
     </Translation>
     <Translation key="NET_CHECK_FOR_GAME_UPDATE_DES">
-        <Language id="en" value="Looking for updates" />
+        <Language id="es" value="Buscando actualizaciones" />
     </Translation>
     <Translation key="NET_ERROR_GAME_UP_TODATE">
-        <Language id="en" value="Grabing latest GHTV Reloaded update" />
+        <Language id="es" value="Obteniendo la última actualización de GHTV Reloaded" />
     </Translation>
     <Translation key="NET_ERROR_GAME_UP_TODATE_DES">
-        <Language id="en" value="GHTV Reloaded is up to date" />
+        <Language id="es" value="GHTV Reloaded está actualizado" />
     </Translation>
     <Translation key="SETT_FORCE_GAME_UPDATE">
-        <Language id="en" value="Check for GHTV Reloaded update" />
+        <Language id="es" value="Buscar actualizacioes para GHTV Reloaded" />
     </Translation>
     <Translation key="GEM_CREATOR_SEL_TRAIL">
-        <Language id="en" value="Select your trail texture" />
+        <Language id="es" value="Selecciona la textura del Rastro de nota" />
     </Translation>
     <Translation key="GEM_CREATOR_TRAIL">
-        <Language id="en" value="Note Trail" />
+        <Language id="es" value="Rastro de nota" />
     </Translation>
     <Translation key="SETT_TAB_1">
-        <Language id="en" value="General" />
+        <Language id="es" value="General" />
     </Translation>
     <Translation key="SETT_TAB_2">
-        <Language id="en" value="Cache" />
+        <Language id="es" value="Caché" />
     </Translation>
     <Translation key="SETT_TAB_3">
-        <Language id="en" value="User Data" />
+        <Language id="es" value="Datos de usuario" />
     </Translation>
 </Translation>
-
