@@ -686,4 +686,7 @@
     <Translation key="NET_COM_PATH_FAILL_DES">
         <Language id="en" value="You have to re run to setup processed again.." />
     </Translation>
+     <Translation key="SETT_TOG_AUTO_UPDATE">
+        <Language id="en" value="Game Auto Updates" />
+    </Translation>
 </Translation>
