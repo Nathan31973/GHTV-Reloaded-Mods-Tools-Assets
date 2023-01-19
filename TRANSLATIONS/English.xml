@@ -593,6 +593,9 @@
     <Translation key="CONSOLE_PS3_WIIU">
         <Language id="en" value="PS3 / Wii U" />
     </Translation>
+    <Translation key="STR_GUITAR_DONGLE">
+        <Language id="en" value="DONGLE" />
+    </Translation>
     <Translation key="SETUP_STR_STAGE4_3_XBOX360">
         <Language id="en" value="SETUP: STAGE 4&#xA;&#xA;Follow the video below on how to setup your dongle" />
     </Translation>
@@ -686,7 +689,37 @@
     <Translation key="NET_COM_PATH_FAILL_DES">
         <Language id="en" value="You have to re run to setup processed again.." />
     </Translation>
-     <Translation key="SETT_TOG_AUTO_UPDATE">
+    <Translation key="SETT_TOG_AUTO_UPDATE">
         <Language id="en" value="Game Auto Updates" />
+    </Translation>
+    <Translation key="NET_CHECK_FOR_GAME_UPDATE">
+        <Language id="en" value="Grabing latest GHTV Reloaded update" />
+    </Translation>
+    <Translation key="NET_CHECK_FOR_GAME_UPDATE_DES">
+        <Language id="en" value="Looking for updates" />
+    </Translation>
+    <Translation key="NET_ERROR_GAME_UP_TODATE">
+        <Language id="en" value="Grabing latest GHTV Reloaded update" />
+    </Translation>
+    <Translation key="NET_ERROR_GAME_UP_TODATE_DES">
+        <Language id="en" value="GHTV Reloaded is up to date" />
+    </Translation>
+    <Translation key="SETT_FORCE_GAME_UPDATE">
+        <Language id="en" value="Check for GHTV Reloaded update" />
+    </Translation>
+    <Translation key="GEM_CREATOR_SEL_TRAIL">
+        <Language id="en" value="Select your trail texture" />
+    </Translation>
+    <Translation key="GEM_CREATOR_TRAIL">
+        <Language id="en" value="Note Trail" />
+    </Translation>
+    <Translation key="SETT_TAB_1">
+        <Language id="en" value="General" />
+    </Translation>
+    <Translation key="SETT_TAB_2">
+        <Language id="en" value="Cache" />
+    </Translation>
+    <Translation key="SETT_TAB_3">
+        <Language id="en" value="User Data" />
     </Translation>
 </Translation>
