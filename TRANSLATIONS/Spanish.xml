@@ -294,7 +294,7 @@
         <Language id="es" value="CAMBIADOR DE GEMAS" />
     </Translation>
     <Translation key="GEM_CREATOR_TITLE_DES">
-        <Language id="es" value="Cambia la apariencia de las gemas en la Autopista predeterminada." />
+        <Language id="es" value="Cambia la apariencia de las gemas en las Carreteras.." />
     </Translation>
     <Translation key="GEM_CREATOR_RIGHT_HND">
         <Language id="es" value="Modo Diestro" />
@@ -396,7 +396,7 @@
         <Language id="es" value="Exportación completa" />
     </Translation>
     <Translation key="GEM_IMPORTER_EXPORT_DONE">
-        <Language id="es" value="Las Gemas personalizadas se han exportado a Guitar Hero Live.&#xA;&#xA;Los cambios se aplicarán la próxima vez que inicies una canción de GHL o selecciones la Autopista predeterminada." />
+        <Language id="es" value="Las gemas personalizadas se han exportado a Guitar Hero Live.&#xA;&#xA;Los cambios surtirán efecto la próxima vez que inicies una canción de GHL o vuelvas a cargar GHTV." />
     </Translation>
     <Translation key="STR_SELECT">
         <Language id="es" value="Seleccionar" />

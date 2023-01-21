@@ -294,7 +294,7 @@
         <Language id="en" value="GEM CHANGER" />
     </Translation>
     <Translation key="GEM_CREATOR_TITLE_DES">
-        <Language id="en" value="Change the gem texture on the default highway." />
+        <Language id="en" value="Change the gem textures for highways." />
     </Translation>
     <Translation key="GEM_CREATOR_RIGHT_HND">
         <Language id="en" value="Right Handed" />
@@ -396,7 +396,7 @@
         <Language id="en" value="Exported Complete" />
     </Translation>
     <Translation key="GEM_IMPORTER_EXPORT_DONE">
-        <Language id="en" value="Custom Gems have been exported to Guitar Hero live.&#xA;&#xA;The Next time you load the default highway or play GHL song the changes will be apply." />
+        <Language id="en" value="Custom Gems have been exported to Guitar Hero live.&#xA;&#xA;The Next time you load into GHTV or play GHL song the changes will be apply." />
     </Translation>
     <Translation key="STR_SELECT">
         <Language id="en" value="Select" />
