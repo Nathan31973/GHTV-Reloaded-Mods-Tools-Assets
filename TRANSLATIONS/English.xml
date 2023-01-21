@@ -722,4 +722,7 @@
     <Translation key="SETT_TAB_3">
         <Language id="en" value="User Data" />
     </Translation>
+    <Translation key="COM_COMMON_NOVID_DES_COMPLETE">
+        <Language id="en" value="To enable this you need to open 'Mange/Game Patches' in RPCS3 enable the no video patch though there." />
+    </Translation>
 </Translation>
