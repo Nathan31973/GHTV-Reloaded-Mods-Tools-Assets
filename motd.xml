@@ -1,6 +1,6 @@
 <Motd>
   <MessageDefinition DisplayFrom="1673136000000" DisplayUntil="1675123200000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools V1.3 Beta!!! There will be lots of bugs!! if you found a bug please reported it</Message>
+    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools V1.3 Beta!!! There will be lots of bugs!! If you have found a bug please report it.</Message>
     <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools V1.3 Beta !!! Il y aura beaucoup de bugs !! si vous avez trouvé un bogue merci de le signaler</Message>
     <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools V1.3 Beta!!! Habrá muchos bichos!! si encontró un error, por favor infórmelo</Message>
     <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 Beta!!! Ci saranno un sacco di bug!! se hai trovato un bug per favore segnalalo</Message>
