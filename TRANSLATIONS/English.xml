@@ -725,4 +725,7 @@
     <Translation key="COM_COMMON_NOVID_DES_COMPLETE">
         <Language id="en" value="To enable this you need to open 'Manage/Game Patches' in RPCS3 and enable the no video patch through there." />
     </Translation>
+    <Translation key="STR_QUIT">
+        <Language id="en" value="Quit Application" />
+    </Translation>
 </Translation>
