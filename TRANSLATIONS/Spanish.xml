@@ -725,4 +725,7 @@
     <Translation key="COM_COMMON_NOVID_DES_COMPLETE">
         <Language id="en" value="Para habilitar esto, debe abrir 'Mange/Game Patches' en RPCS3 y habilitar el parche sin video allí." />
     </Translation>
+    <Translation key="STR_QUIT">
+        <Language id="en" value="Salir de la aplicación" />
+    </Translation>
 </Translation>
