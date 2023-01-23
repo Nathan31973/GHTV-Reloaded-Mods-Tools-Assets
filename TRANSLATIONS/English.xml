@@ -746,4 +746,7 @@
     <Translation key="COMM_TAB_2">
         <Language id="en" value="Experimental" />
     </Translation>
+    <Translation key="COM_RESTART">
+        <Language id="en" value="Restart Patch" />
+    </Translation>
 </Translation>
