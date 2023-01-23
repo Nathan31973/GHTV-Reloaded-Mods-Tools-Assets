@@ -728,4 +728,25 @@
     <Translation key="STR_QUIT">
         <Language id="en" value="Salir de la aplicación" />
     </Translation>
+    <Translation key="COMM_RESTARTPATCH_TITLE">
+        <Language id="en" value="PARCHE DE REINICIO" />
+    </Translation>
+    <Translation key="COMM_RESTARTPATCH_TITLE_DES">
+        <Language id="en" value="Agregue un botón de reinicio a pedido" />
+    </Translation>
+    <Translation key="STR_TUTORIAL">
+        <Language id="en" value="Tutorial" />
+    </Translation>
+    <Translation key="COMM_RESTART_TUT">
+        <Language id="en" value="Al reiniciar una canción&#xA;&#xA;1. Presione ok cuando se cargue el contenido de descarga fallido&#xA;&#xA;2. Presione el botón de pausa para deshacerse de la selección de energía del héroe (repita 3X).&#xA;&#xA;3. A la tercera vez, la canción se reiniciará. (si reinicia una lista de reproducción, vuelve a la primera canción de la lista de reproducción)" />
+    </Translation>
+    <Translation key="STR_ACKNOWLEDGE">
+        <Language id="en" value="Reconocer" />
+    </Translation>
+    <Translation key="COMM_TAB_2">
+        <Language id="en" value="Experimental" />
+    </Translation>
+    <Translation key="COM_RESTART">
+        <Language id="en" value="Reiniciar parche" />
+    </Translation>
 </Translation>
