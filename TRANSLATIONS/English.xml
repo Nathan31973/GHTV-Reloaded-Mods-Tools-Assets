@@ -740,4 +740,7 @@
     <Translation key="COMM_RESTART_TUT">
         <Language id="en" value="When Restarting a song&#xA;&#xA;1. Press ok when the failed download content loads&#xA;&#xA;2. Press pause button to get rid of hero power select (repeat 3X).&#xA;&#xA;3. On the third time the song will restart. (if restarting a playlist you go back to the first song in the playlist)" />
     </Translation>
+     <Translation key="STR_ACKNOWLEDGE">
+        <Language id="en" value="Acknowledge" />
+    </Translation>
 </Translation>
