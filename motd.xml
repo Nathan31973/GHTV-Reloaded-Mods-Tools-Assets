@@ -1,9 +1,9 @@
 <Motd>
   <MessageDefinition DisplayFrom="1673136000000" DisplayUntil="1675123200000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools V1.3</Message>
-    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools V1.3</Message>
-    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools V1.3</Message>
-    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3</Message>
-    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools V1.3</Message>
+    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools V1.3 || All new features and community patches have been added, plus we make sure your game is up to date</Message>
+    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools V1.3 || maintenant en français || Toutes les nouvelles fonctionnalités et correctifs communautaires ont été ajoutés, et nous nous assurons que votre jeu est à jour</Message>
+    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools V1.3 || ahora en español || Se han agregado todas las funciones nuevas y parches de la comunidad, además nos aseguramos de que su juego esté actualizado</Message>
+    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || Ora in italiano || Sono state aggiunte tutte le nuove funzionalità e le patch della community, inoltre ci assicuriamo che il tuo gioco sia aggiornato</Message>
+    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools V1.3 || Jetzt auf Deutsch || Alle neuen Funktionen und Community-Patches wurden hinzugefügt, und wir stellen sicher, dass Ihr Spiel auf dem neuesten Stand ist</Message>
   </MessageDefinition>
 </Motd>
