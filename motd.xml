@@ -1,9 +1,9 @@
 <Motd>
-  <MessageDefinition DisplayFrom="1673136000000" DisplayUntil="1675987200000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || In the upcoming V1.3.1 update, HyperSpeed will support both Live and GHTV songs</Message>
-    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools || Dans la prochaine mise à jour V1.3.1, HyperSpeed prendra en charge les chansons Live et GHTV</Message>
-    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || En la próxima actualización V1.3.1, HyperSpeed admitirá canciones en vivo y GHTV</Message>
-    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || Ora in italiano || Sono state aggiunte tutte le nuove funzionalità e le patch della community, inoltre ci assicuriamo che il tuo gioco sia aggiornato</Message>
-    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools || Im kommenden V1.3.1-Update wird HyperSpeed sowohl Live- als auch GHTV-Songs unterstützen</Message>
+  <MessageDefinition DisplayFrom="1676395126000" DisplayUntil="1676654326000" Priority="1" IsEnabled="true">
+    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || We are working fast as we can to get hyper speed fix (no client update is required)</Message>
+    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools || Nous travaillons aussi vite que possible pour obtenir un correctif hyper rapide (aucune mise à jour du client n'est requise)</Message>
+    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || Estamos trabajando lo más rápido posible para obtener una solución de hipervelocidad (no se requiere actualización del cliente)</Message>
+    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || Stiamo lavorando il più velocemente possibile per ottenere una correzione iperveloce (non è richiesto alcun aggiornamento del client)</Message>
+    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools || Wir arbeiten so schnell wie möglich, um eine Hyperspeed-Korrektur zu erhalten (es ist kein Client-Update erforderlich)</Message>
   </MessageDefinition>
 </Motd>
