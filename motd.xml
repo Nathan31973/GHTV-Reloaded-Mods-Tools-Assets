@@ -1,9 +1,9 @@
 <Motd>
-  <MessageDefinition DisplayFrom="1676395126000" DisplayUntil="1676654326000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || HyperSpeed is now working again!</Message>
-    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools || HyperSpeed sfonctionne à nouveau !</Message>
-    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || HyperSpeed ya está funcionando de nuevo!</Message>
-    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || HyperSpeed ora funziona di nuovo!</Message>
-    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools || HyperSpeed funktioniert jetzt wieder!</Message>
+  <MessageDefinition DisplayFrom="1676395126000" DisplayUntil="1677160800000" Priority="1" IsEnabled="true">
+    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || Our official Gem Pack has been updated!! Redownload our official pack inside the Gem Changer - "Import Gem Pack"</Message>
+    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools || Notre pack de gemmes officiel a été mis à jour !! Téléchargez à nouveau notre pack officiel dans le Gem Changer - "Import Gem Pack"</Message>
+    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || ¡Nuestro paquete de gemas oficial ha sido actualizado! Vuelva a descargar nuestro paquete oficial dentro del cambiador de gemas - "Importar paquete de gemas"</Message>
+    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || Il nostro Gem Pack ufficiale è stato aggiornato!! Riscarica il nostro pacchetto ufficiale all'interno del Gem Changer - "Import Gem Pack"</Message>
+    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools || Unser offizielles Edelsteinpaket wurde aktualisiert!! Laden Sie unser offizielles Paket im Gem Changer erneut herunter – „Import Gem Pack“</Message>
   </MessageDefinition>
 </Motd>
