@@ -755,4 +755,7 @@
     <Translation key="STR_SETTINGS_SAVECOPY_MSG">
         <Language id="en" value="Guitar Hero Live should not go into the tutorial" />
     </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY_TITLE">
+        <Language id="en" value="Reset Save File" />
+    </Translation>
 </Translation>
