@@ -749,4 +749,10 @@
     <Translation key="COM_RESTART">
         <Language id="en" value="Restart Patch" />
     </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY">
+        <Language id="en" value="Save File Copy" />
+    </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY_MSG">
+        <Language id="en" value="Guitar Hero Live should not go into the tutorial" />
+    </Translation>
 </Translation>
