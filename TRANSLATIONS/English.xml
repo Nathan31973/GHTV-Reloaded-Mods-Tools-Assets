@@ -758,4 +758,7 @@
     <Translation key="STR_SETTINGS_SAVECOPY_TITLE">
         <Language id="en" value="Reset Save File" />
     </Translation>
+        <Translation key="OPT_ADMIN">
+        <Language id="en" value="Admin Tool" />
+    </Translation>
 </Translation>
