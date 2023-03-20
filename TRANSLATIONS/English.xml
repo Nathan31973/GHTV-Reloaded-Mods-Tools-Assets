@@ -114,7 +114,7 @@
         <Language id="en" value="Deleting Cache Files" />
     </Translation>
     <Translation key="STR_WAIT_DEL_CACHE_FILES">
-        <Language id="en" value="Please wait while remove cache files" />
+        <Language id="en" value="Please wait while we remove cache files" />
     </Translation>
     <Translation key="COM_TITLE_NOSTREAK">
         <Language id="en" value="NO STREAK PATCH" />
@@ -390,7 +390,7 @@
         <Language id="en" value="Exporting" />
     </Translation>
     <Translation key="GEM_IMPORTER_EXPORTING">
-        <Language id="en" value="Please wait while Export your textures" />
+        <Language id="en" value="Please wait while we export your textures" />
     </Translation>
     <Translation key="STR_EXPORTDONE">
         <Language id="en" value="Exported Complete" />
@@ -456,13 +456,13 @@
         <Language id="en" value="Select your open gem texture" />
     </Translation>
     <Translation key="GEM_CREATOR_SEL_RIGHT_HND">
-        <Language id="en" value="Select your Right hadned gem texture" />
+        <Language id="en" value="Select your Right handed gem texture" />
     </Translation>
     <Translation key="STR_CONVERTING">
         <Language id="en" value="Converting" />
     </Translation>
     <Translation key="GEM_CREATOR_CONVERTING_TEX">
-        <Language id="en" value="Please wait while convert your textures." />
+        <Language id="en" value="Please wait while we convert your textures." />
     </Translation>
     <Translation key="STR_CONVERT_FAIL">
         <Language id="en" value="Convert Failed" />
