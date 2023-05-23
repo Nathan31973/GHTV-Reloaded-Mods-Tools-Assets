@@ -1,9 +1,9 @@
 <Motd>
-  <MessageDefinition DisplayFrom="1676395126000" DisplayUntil="1677160800000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || Our official Gem Pack has been updated!! Redownload our official pack inside the Gem Changer - "Import Gem Pack"</Message>
-    <Message Language="French">Bienvenue dans GHTV Reloaded: Mod Tools || Notre pack de gemmes officiel a été mis à jour !! Téléchargez à nouveau notre pack officiel dans le Gem Changer - "Import Gem Pack"</Message>
-    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || ¡Nuestro paquete de gemas oficial ha sido actualizado! Vuelva a descargar nuestro paquete oficial dentro del cambiador de gemas - "Importar paquete de gemas"</Message>
-    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools V1.3 || Il nostro Gem Pack ufficiale è stato aggiornato!! Riscarica il nostro pacchetto ufficiale all'interno del Gem Changer - "Import Gem Pack"</Message>
-    <Message Language="German">Willkommen zur GHTV Reloaded: Mod Tools || Unser offizielles Edelsteinpaket wurde aktualisiert!! Laden Sie unser offizielles Paket im Gem Changer erneut herunter – „Import Gem Pack“</Message>
+  <MessageDefinition DisplayFrom="1684766959000" DisplayUntil="1685371759000" Priority="1" IsEnabled="true">
+    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || V1.3.2 of the Mod Tools is now available to download. It includes fixes for hyperspeed and TV Editions Save files fix</Message>
+    <Message Language="French">Bienvenue dans GHTV Reloaded : Outils de modification || La V1.3.2 des Mod Tools est maintenant disponible en téléchargement. Il inclut des correctifs pour les éditions hyperspeed et TV Save file fix</Message>
+    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || V1.3.2 de Mod Tools ya está disponible para descargar. Incluye correcciones para hipervelocidad y ediciones de TV Corrección de archivos guardados</Message>
+    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools || V1.3.2 di Mod Tools è ora disponibile per il download. Include correzioni per l'ipervelocità e la correzione dei file di salvataggio delle edizioni TV</Message>
+    <Message Language="German">Willkommen bei GHTV Reloaded: Mod Tools || V1.3.2 der Mod Tools steht jetzt zum Download bereit. Es enthält Fehlerbehebungen für Hyperspeed und TV-Editionen. Fehlerbehebung für Dateien speichern</Message>
   </MessageDefinition>
 </Motd>
