@@ -749,4 +749,16 @@
     <Translation key="COM_RESTART">
         <Language id="en" value="Reiniciar parche" />
     </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY">
+        <Language id="en" value="Guardar archivo Copiar" />
+    </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY_MSG">
+        <Language id="en" value="Guitar Hero Live no debería entrar en el tutorial" />
+    </Translation>
+    <Translation key="STR_SETTINGS_SAVECOPY_TITLE">
+        <Language id="en" value="Restablecer Guardar archivo" />
+    </Translation>
+        <Translation key="OPT_ADMIN">
+        <Language id="en" value="Herramienta de administración" />
+    </Translation>
 </Translation>
