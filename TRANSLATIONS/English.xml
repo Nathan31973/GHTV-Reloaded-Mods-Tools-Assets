@@ -761,4 +761,19 @@
         <Translation key="OPT_ADMIN">
         <Language id="en" value="Admin Tool" />
     </Translation>
+        <Translation key="STR_NO_NET">
+        <Language id="en" value="No Internet Connection" />
+    </Translation>
+        <Translation key="STR_SETUP_REQUIRE_NET">
+        <Language id="en" value="GHTV Reloaded Mod Tools require an active internet connection for setup.&#xA;&#xA;If you require GHTV Reloaded Mod Tools for offline use please select download cache in the settings.&#xA;&#xA;" />
+    </Translation>
+        <Translation key="SETT_OFFLINE_MODE">
+        <Language id="en" value="Download for offline mode" />
+    </Translation>
+        <Translation key="STR_DOWNLOADING_OFFLINE_CACHE">
+        <Language id="en" value="Downloading files for offline use" />
+    </Translation>
+        <Translation key="STR_WAIT_OFFLINE_CACHE">
+        <Language id="en" value="Please wait while we download all files to use GHTV Reloaded Mod Tools offline" />
+    </Translation>
 </Translation>
