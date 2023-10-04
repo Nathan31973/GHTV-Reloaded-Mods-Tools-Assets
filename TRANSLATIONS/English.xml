@@ -776,4 +776,124 @@
         <Translation key="STR_WAIT_OFFLINE_CACHE">
         <Language id="en" value="Please wait while we download all files to use GHTV Reloaded Mod Tools offline" />
     </Translation>
+      <Translation key="SETT_DEL_GHTV_CACHE">
+    <Language id="en" value="Clear GHTV Cache" />
+  </Translation>
+  <Translation key="SETUP_STR_ERROR_FAIL_DWCONFIG_DES">
+    <Language id="en" value="configDemonware.xml is being used by another applications." />
+  </Translation>
+  <Translation key="SETUP_STR_ERROR_FAIL_DWCONFIG_TITLE">
+    <Language id="en" value="Failed To Copy configDemonware.xml" />
+  </Translation>
+  <Translation key="SETUP_STR_ERROR_CRIT_DWCONFIG_DES">
+    <Language id="en" value="An unknow error. Please try again" />
+  </Translation>
+  <Translation key="STR_CHANGEPROFILE">
+    <Language id="en" value="Change Profile" />
+  </Translation>
+  <Translation key="STR_GHTV_RICH">
+    <Language id="en" value="GHTV DISCORD RICH" />
+  </Translation>
+  <Translation key="STR_SOCIAL_TITLE">
+    <Language id="en" value="Social" />
+  </Translation>
+  <Translation key="STR_SOCIAL_NODISCORD">
+    <Language id="en" value="To see your friends&#xA;Open Discord" />
+  </Translation>
+  <Translation key="STR_MP_SESSION_JOIN">
+    <Language id="en" value="Join Multiplayer Session" />
+  </Translation>
+  <Translation key="STR_MP_SESSION_INVITE">
+    <Language id="en" value="Invite Multiplayer Session" />
+  </Translation>
+  <Translation key="STR_PLAYER_LEVEL_SHORT">
+    <Language id="en" value="LVL" />
+  </Translation>
+  <Translation key="STR_MP_INVITE_SENT">
+    <Language id="en" value="Invite Sent" />
+  </Translation>
+  <Translation key="STR_MP_INVITE_SENT_DES">
+    <Language id="en" value="An Schedual invite has been sent to there dm" />
+  </Translation>
+  <Translation key="STR_OFFLINE">
+    <Language id="en" value="Offline" />
+  </Translation>
+  <Translation key="STR_PROFILE_IMG_SEL">
+    <Language id="en" value="Select Profile Image" />
+  </Translation>
+  <Translation key="STR_OFFLINE">
+    <Language id="en" value="Offline" />
+  </Translation>
+  <Translation key="STR_INPUT_ERROR_BAD">
+    <Language id="en" value="Bad Word Detect" />
+  </Translation>
+  <Translation key="STR_INPUT_ERROR_BAD_DES_1">
+    <Language id="en" value="Sorry your not allow to use special charaters in Username" />
+  </Translation>
+  <Translation key="STR_PROFILE_ERROR_EXIST">
+    <Language id="en" value="Profile Already Exist" />
+  </Translation>
+  <Translation key="STR_PROFILE_ERROR_EXIST_DES">
+    <Language id="en" value="A profile with this name already exist" />
+  </Translation>
+  <Translation key="STR_INPUT_ERROR_BAD_DES_2">
+    <Language id="en" value="Sorry your not allow to use bad words in your Username" />
+  </Translation>
+  <Translation key="STR_INPUT_ERROR_BANK">
+    <Language id="en" value="Blank Text" />
+  </Translation>
+  <Translation key="STR_INPUT_ERROR_BANK_DES">
+    <Language id="en" value="You must enter a Username" />
+  </Translation>
+  <Translation key="STR_PROFILE_DELETE_WARN">
+    <Language id="en" value="Delete Warning" />
+  </Translation>
+  <Translation key="STR_PROFILE_DELETE_WARN_DES">
+    <Language id="en" value="Are you sure you want to delete profile" />
+  </Translation>
+  <Translation key="STR_PROFILE_SWAP">
+    <Language id="en" value="Profile swaped" />
+  </Translation>
+  <Translation key="STR_PROFILE_SWAP_DES">
+    <Language id="en" value="The active Profile is" />
+  </Translation>
+  <Translation key="STR_PROFILE_SWAP_DES_RPCS3">
+    <Language id="en" value="Your RPCN and config deamonware has been copy to your RPCS3" />
+  </Translation>
+  <Translation key="STR_PROFILE_TITLE">
+    <Language id="en" value="Select a Profile" />
+  </Translation>
+  <Translation key="STR_PROFILE_CREATE">
+    <Language id="en" value="Create a Profile" />
+  </Translation>
+  <Translation key="STR_PROFILE_DELETE">
+    <Language id="en" value="Delete a Profile" />
+  </Translation>
+  <Translation key="PRO_CREATE_USER_DIAG">
+    <Language id="en" value="ENTER USERNAME" />
+  </Translation>
+  <Translation key="COM_CONNECTSTATUS_TITLE">
+    <Language id="en" value="Connectivity Status" />
+  </Translation>
+  <Translation key="COM_CONNECTSTATUS_GREEN">
+    <Language id="en" value="Connected to GHTVR" />
+  </Translation>
+  <Translation key="COM_CONNECTSTATUS_YELLOW">
+    <Language id="en" value="Connecting to GHTVR" />
+  </Translation>
+  <Translation key="COM_CONNECTSTATUS_ORANGE">
+    <Language id="en" value="Online but not connected to GHTVR" />
+  </Translation>
+  <Translation key="COM_CONNECTSTATUS_RED">
+    <Language id="en" value="Disconnected or offline" />
+  </Translation>
+  <Translation key="STR_SETT_DISCORD_ACT_TITLE">
+    <Language id="en" value="Discord Activity Notice" />
+  </Translation>
+  <Translation key="STR_SETT_DISCORD_ACT_MOD">
+    <Language id="en" value="Your Discord activity will display Mod Tools Acivity" />
+  </Translation>
+  <Translation key="STR_SETT_DISCORD_ACT_GHTVR">
+    <Language id="en" value="Your Discord activity will display your GHTV Acivity" />
+  </Translation>
 </Translation>
