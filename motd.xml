@@ -1,9 +1,9 @@
 <Motd>
-  <MessageDefinition DisplayFrom="1684766959000" DisplayUntil="1685371759000" Priority="1" IsEnabled="true">
-    <Message Language="English">Welcome to the GHTV Reloaded: Mod Tools || V1.3.2 of the Mod Tools is now available to download. It includes fixes for hyperspeed and TV Editions Save files fix</Message>
-    <Message Language="French">Bienvenue dans GHTV Reloaded : Outils de modification || La V1.3.2 des Mod Tools est maintenant disponible en téléchargement. Il inclut des correctifs pour les éditions hyperspeed et TV Save file fix</Message>
-    <Message Language="Spanish">Bienvenido a GHTV Reloaded: Mod Tools || V1.3.2 de Mod Tools ya está disponible para descargar. Incluye correcciones para hipervelocidad y ediciones de TV Corrección de archivos guardados</Message>
-    <Message Language="Italian">Benvenuto in GHTV Reloaded: Mod Tools || V1.3.2 di Mod Tools è ora disponibile per il download. Include correzioni per l'ipervelocità e la correzione dei file di salvataggio delle edizioni TV</Message>
-    <Message Language="German">Willkommen bei GHTV Reloaded: Mod Tools || V1.3.2 der Mod Tools steht jetzt zum Download bereit. Es enthält Fehlerbehebungen für Hyperspeed und TV-Editionen. Fehlerbehebung für Dateien speichern</Message>
+  <MessageDefinition DisplayFrom="1700916796000" DisplayUntil="1704103200000" Priority="1" IsEnabled="true">
+    <Message Language="English">NOTICES || GHTV Reloaded: Mod Tools will not work and support V2 of GHTV Reloaded on December 1st || </Message>
+    <Message Language="French">AVIS || GHTV Reloaded : Mod Tools ne fonctionnera pas et ne prendra pas en charge la V2 de GHTV Reloaded le 1er décembre ||</Message>
+    <Message Language="Spanish">AVISOS || GHTV Reloaded: Mod Tools no funcionará y no admitirá la V2 de GHTV Reloaded el 1 de diciembre ||</Message>
+    <Message Language="Italian">AVVISI || GHTV Reloaded: Mod Tools non funzionerà e non supporterà la V2 di GHTV Reloaded il 1 dicembre ||</Message>
+    <Message Language="German">HINWEISE || GHTV Reloaded: Mod Tools funktionieren nicht und unterstützen V2 von GHTV Reloaded am 1. Dezember ||</Message>
   </MessageDefinition>
 </Motd>
